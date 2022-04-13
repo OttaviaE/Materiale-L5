@@ -2,7 +2,9 @@
 
 
 TI ODIOOOOOOOP
-[PorcaPuttana](/main/README.md)
+[Muorimale](binomiale.html)
+
+[Porva](Materiale-L5/main/binomiale.html)
 
 You can use the [editor on GitHub](https://github.com/OttaviaE/Materiale-L5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
