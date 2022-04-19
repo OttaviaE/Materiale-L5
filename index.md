@@ -4,4 +4,4 @@ In questo sito vengono caricati i materiali supplementari del corso, la maggior 
 
 [Distribuzione Binomiale](binomiale.html)
 
-[Verifica di ipotesi con $x_{critico}$](Verifica di ipotesi con x critico.html)
+[Verifica di ipotesi con x critico](Verifica-di-ipotesi-con-x-critico.html)
